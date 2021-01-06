@@ -559,7 +559,7 @@ export default {
 					// containLabel: true
 				},
 				xAxis: [{
-                    name:'登陆时间',
+                    //name:'登陆时间',
                     nameLocation:'middle',
 					type: 'category',
 					color: '#59588D',
